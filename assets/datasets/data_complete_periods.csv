@@ -1,0 +1,721 @@
+Period_dt,County,Period,Unit,Price,Product,Locality
+1/1/2022, Vaslui,Jan-22, Lei / kg,2.03,Apples,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,2.47,Apples,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,2.44,Apples,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,2.73,Apples,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,3.45,Apples,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Apples,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Apples,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,4,Apples,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,4.38,Apples,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,4.6,Apples,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,4.4,Apples,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,4.2,Apples,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,3.42,Apples,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,3.4,Apples,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,3.05,Apples,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,2.8,Apples,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,3.78,Apples,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Apples,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Apples,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,4,Apples,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,4,Apples,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,3.25,Apples,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,3.17,Apples,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,3.07,Apples,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,3.69,Apples,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,3.88,Apples,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,3.69,Apples,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,3.5,Apples,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,3.93,Apples,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Apples,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Apples,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,4.2,Apples,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,5.04,Apples,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,4.67,Apples,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,4.69,Apples,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Apples,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,2.7,Apples,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,2.5,Apples,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,2.5,Apples,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,2.92,Apples,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,3.5,Apples,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Apples,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Apples,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,3.5,Apples,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,4.19,Apples,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,4.68,Apples,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,4.55,Apples,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,4.5,Apples,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,3.63,Apples,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,3.63,Apples,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,3.44,Apples,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,3,Apples,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,4.25,Apples,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Apples,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Apples,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,4.5,Apples,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,4,Apples,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,3.3,Apples,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,3.41,Apples,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,3.55,Apples,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,3.63,Apples,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,3.65,Apples,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,3.75,Apples,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,3.63,Apples,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,3.91,Apples,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Apples,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Apples,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,4,Apples,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,4.88,Apples,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,4.08,Apples,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,4.69,Apples,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Apples,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Apricots,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Apricots,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Apricots,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Apricots,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Apricots,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,8,Apricots,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,8.43,Apricots,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Apricots,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Apricots,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Apricots,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Apricots,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Apricots,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Apricots,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Apricots,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Apricots,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Apricots,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Apricots,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,8.5,Apricots,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,8.33,Apricots,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Apricots,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Apricots,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Apricots,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Apricots,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Apricots,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Apricots,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Apricots,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Apricots,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Apricots,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Apricots,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,6.83,Apricots,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,5.07,Apricots,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Apricots,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Apricots,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Apricots,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Apricots,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Apricots,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Apricots,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Apricots,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Apricots,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Apricots,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Apricots,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Apricots,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,8.5,Apricots,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Apricots,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Apricots,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Apricots,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Apricots,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Apricots,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Apricots,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Apricots,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Apricots,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Apricots,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Apricots,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,8.5,Apricots,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,9.73,Apricots,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Apricots,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Apricots,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Apricots,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Apricots,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Apricots,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Apricots,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Apricots,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Apricots,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Apricots,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Apricots,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,7.67,Apricots,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,7.29,Apricots,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Apricots,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Apricots,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Apricots,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Apricots,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Apricots,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Cherries,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Cherries,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Cherries,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Cherries,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,6,Cherries,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,6.25,Cherries,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,6.75,Cherries,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Cherries,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Cherries,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Cherries,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Cherries,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Cherries,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Cherries,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Cherries,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Cherries,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Cherries,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Cherries,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,10.5,Cherries,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,8,Cherries,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Cherries,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Cherries,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Cherries,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Cherries,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Cherries,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Cherries,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Cherries,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Cherries,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Cherries,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,10,Cherries,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,7.25,Cherries,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Cherries,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Cherries,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Cherries,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Cherries,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Cherries,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Cherries,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Cherries,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Cherries,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Cherries,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Cherries,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,22.5,Cherries,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,8.75,Cherries,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,8.75,Cherries,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Cherries,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Cherries,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Cherries,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Cherries,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Cherries,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Cherries,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Cherries,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Cherries,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Cherries,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,14,Cherries,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,10.5,Cherries,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,8,Cherries,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Cherries,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Cherries,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Cherries,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Cherries,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Cherries,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Cherries,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Cherries,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Cherries,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Cherries,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,9,Cherries,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,7.25,Cherries,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Cherries,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Cherries,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Cherries,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Cherries,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Cherries,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Cherries,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Grapes,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Grapes,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Grapes,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Grapes,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Grapes,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Grapes,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Grapes,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Grapes,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,4.3,Grapes,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,5.4,Grapes,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Grapes,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Grapes,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Grapes,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Grapes,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Grapes,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Grapes,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Grapes,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Grapes,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Grapes,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,7,Grapes,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,6.5,Grapes,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,6.11,Grapes,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Grapes,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Grapes,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Grapes,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Grapes,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Grapes,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Grapes,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Grapes,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Grapes,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Grapes,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,8.18,Grapes,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,6,Grapes,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,7.23,Grapes,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Grapes,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Grapes,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Grapes,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Grapes,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Grapes,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Grapes,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Grapes,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Grapes,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Grapes,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Grapes,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,5.5,Grapes,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,5.65,Grapes,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Grapes,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Grapes,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Grapes,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Grapes,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Grapes,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Grapes,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Grapes,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Grapes,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Grapes,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,7.25,Grapes,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,6.27,Grapes,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,5.5,Grapes,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Grapes,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Grapes,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Grapes,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Grapes,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Grapes,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Grapes,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Grapes,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Grapes,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Grapes,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,7,Grapes,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,5.89,Grapes,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,7.47,Grapes,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Grapes,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Grapes,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,34.5,Nuts,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,33.75,Nuts,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,32,Nuts,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,32.5,Nuts,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,34.75,Nuts,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,39,Nuts,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,39,Nuts,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,39,Nuts,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,39,Nuts,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,39,Nuts,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,35.5,Nuts,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,32,Nuts,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,30,Nuts,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,33.75,Nuts,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,30.5,Nuts,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,30,Nuts,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,35,Nuts,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,35,Nuts,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,45,Nuts,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,40,Nuts,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,50,Nuts,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,23,Nuts,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,45,Nuts,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,36.25,Nuts,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,36,Nuts,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,38.75,Nuts,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,35.5,Nuts,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,36.5,Nuts,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,37,Nuts,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,36.25,Nuts,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,35.75,Nuts,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,35,Nuts,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,40,Nuts,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,30,Nuts,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,31.25,Nuts,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Nuts,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,36.25,Nuts,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,34.25,Nuts,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,35,Nuts,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,35,Nuts,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,37.5,Nuts,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,38.5,Nuts,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,38,Nuts,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,38,Nuts,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,38,Nuts,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,38,Nuts,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,38,Nuts,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,38,Nuts,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,31.25,Nuts,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,30,Nuts,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,29.5,Nuts,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,30,Nuts,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,35.67,Nuts,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,35,Nuts,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,45,Nuts,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,45,Nuts,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,50,Nuts,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,46.67,Nuts,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,46.67,Nuts,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,35,Nuts,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,36,Nuts,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,41.25,Nuts,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,36.75,Nuts,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,36.5,Nuts,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,36.75,Nuts,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,37,Nuts,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,36.75,Nuts,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,35,Nuts,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,40,Nuts,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,41.67,Nuts,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,32.5,Nuts,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Nuts,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Peaches,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Peaches,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Peaches,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Peaches,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Peaches,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Peaches,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Peaches,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Peaches,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Peaches,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Peaches,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Peaches,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Peaches,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Peaches,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Peaches,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Peaches,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Peaches,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Peaches,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Peaches,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,6.38,Peaches,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,8,Peaches,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Peaches,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Peaches,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Peaches,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Peaches,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Peaches,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Peaches,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Peaches,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Peaches,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Peaches,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,6,Peaches,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,5.71,Peaches,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,6.57,Peaches,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Peaches,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Peaches,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Peaches,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Peaches,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Peaches,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Peaches,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Peaches,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Peaches,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Peaches,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Peaches,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Peaches,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Peaches,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Peaches,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Peaches,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Peaches,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Peaches,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Peaches,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Peaches,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Peaches,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Peaches,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Peaches,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Peaches,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,6.5,Peaches,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,8.5,Peaches,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Peaches,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Peaches,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Peaches,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Peaches,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Peaches,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Peaches,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Peaches,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Peaches,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Peaches,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,5.97,Peaches,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,6.67,Peaches,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,6.33,Peaches,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Peaches,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Peaches,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Peaches,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Peaches,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,4.75,Pears,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,5.5,Pears,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,7,Pears,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Pears,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Pears,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Pears,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Pears,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Pears,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Pears,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,6,Pears,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,6.5,Pears,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,7,Pears,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,7,Pears,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,7,Pears,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,7,Pears,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Pears,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Pears,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Pears,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Pears,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,8,Pears,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,8.5,Pears,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,8.5,Pears,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,8.75,Pears,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,8.25,Pears,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,9.75,Pears,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,10,Pears,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,10,Pears,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Pears,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Pears,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Pears,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Pears,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,6,Pears,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,12,Pears,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,7.33,Pears,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,8.5,Pears,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Pears,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,6,Pears,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,6.25,Pears,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,6,Pears,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Pears,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Pears,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Pears,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Pears,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Pears,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Pears,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,6,Pears,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,6.75,Pears,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,7,Pears,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,7,Pears,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,6.63,Pears,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,6,Pears,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Pears,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Pears,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Pears,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Pears,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,7.33,Pears,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,8.75,Pears,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,9,Pears,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,8.5,Pears,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,7.75,Pears,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,8.75,Pears,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,9.25,Pears,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,10,Pears,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Pears,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Pears,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Pears,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Pears,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,4.67,Pears,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Pears,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,7,Pears,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,8.67,Pears,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Pears,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Plums,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Plums,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Plums,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Plums,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Plums,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Plums,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Plums,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,5,Plums,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,4.5,Plums,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Plums,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Plums,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Plums,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Plums,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Plums,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Plums,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Plums,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Plums,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Plums,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,7,Plums,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,3.75,Plums,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,4.5,Plums,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Plums,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Plums,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Plums,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Plums,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Plums,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Plums,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Plums,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Plums,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Plums,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,4,Plums,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,4,Plums,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,4.25,Plums,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Plums,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Plums,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Plums,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Plums,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Plums,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Plums,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Plums,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Plums,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,,Plums,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Plums,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,4.83,Plums,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,4.44,Plums,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Plums,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Plums,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Plums,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Plums,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Plums,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Plums,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Plums,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Plums,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,,Plums,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,6.33,Plums,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,4,Plums,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,4.33,Plums,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Plums,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Plums,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Plums,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Plums,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Plums,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Plums,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Plums,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Plums,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Plums,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,4.17,Plums,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,3.71,Plums,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,4.2,Plums,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Plums,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Plums,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Plums,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Sour Cherries,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Sour Cherries,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Sour Cherries,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Sour Cherries,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,,Sour Cherries,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,9,Sour Cherries,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,9,Sour Cherries,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Sour Cherries,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Sour Cherries,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Sour Cherries,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Sour Cherries,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Sour Cherries,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Sour Cherries,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Sour Cherries,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Sour Cherries,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Sour Cherries,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,,Sour Cherries,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,12,Sour Cherries,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,10.67,Sour Cherries,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Sour Cherries,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Sour Cherries,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Sour Cherries,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Sour Cherries,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Sour Cherries,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Sour Cherries,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Sour Cherries,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Sour Cherries,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Sour Cherries,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,,Sour Cherries,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,8,Sour Cherries,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Sour Cherries,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Sour Cherries,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Sour Cherries,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Sour Cherries,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Sour Cherries,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Sour Cherries,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Sour Cherries,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Sour Cherries,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Sour Cherries,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Sour Cherries,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,,Sour Cherries,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,9.5,Sour Cherries,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,8.5,Sour Cherries,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Sour Cherries,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Sour Cherries,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Sour Cherries,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Sour Cherries,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Sour Cherries,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Sour Cherries,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Sour Cherries,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Sour Cherries,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Sour Cherries,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,,Sour Cherries,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,9,Sour Cherries,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,8,Sour Cherries,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Sour Cherries,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Sour Cherries,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Sour Cherries,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Sour Cherries,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Sour Cherries,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Sour Cherries,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Sour Cherries,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Sour Cherries,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Sour Cherries,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,,Sour Cherries,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,,Sour Cherries,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Sour Cherries,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Sour Cherries,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Sour Cherries,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Sour Cherries,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Sour Cherries,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Sour Cherries,VASLUI
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Strawberries,BARLAD
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Strawberries,BARLAD
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Strawberries,BARLAD
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Strawberries,BARLAD
+5/1/2022, Vaslui,May-22, Lei / kg,10.5,Strawberries,BARLAD
+6/1/2022, Vaslui,Jun-22, Lei / kg,8,Strawberries,BARLAD
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Strawberries,BARLAD
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Strawberries,BARLAD
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Strawberries,BARLAD
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Strawberries,BARLAD
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Strawberries,BARLAD
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Strawberries,BARLAD
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Strawberries,BARLAD
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Strawberries,BARLAD
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Strawberries,BARLAD
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Strawberries,BARLAD
+5/1/2023, Vaslui,May-23, Lei / kg,15,Strawberries,BARLAD
+6/1/2023, Vaslui,Jun-23, Lei / kg,10,Strawberries,BARLAD
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Strawberries,BARLAD
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Strawberries,BARLAD
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Strawberries,BARLAD
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Strawberries,BARLAD
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Strawberries,BARLAD
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Strawberries,BARLAD
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Strawberries,BARLAD
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Strawberries,BARLAD
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Strawberries,BARLAD
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Strawberries,BARLAD
+5/1/2024, Vaslui,May-24, Lei / kg,14,Strawberries,BARLAD
+6/1/2024, Vaslui,Jun-24, Lei / kg,12,Strawberries,BARLAD
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Strawberries,BARLAD
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Strawberries,BARLAD
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Strawberries,BARLAD
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Strawberries,BARLAD
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Strawberries,BARLAD
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Strawberries,BARLAD
+1/1/2022, Vaslui,Jan-22, Lei / kg,,Strawberries,VASLUI
+2/1/2022, Vaslui,Feb-22, Lei / kg,,Strawberries,VASLUI
+3/1/2022, Vaslui,Mar-22, Lei / kg,,Strawberries,VASLUI
+4/1/2022, Vaslui,Apr-22, Lei / kg,,Strawberries,VASLUI
+5/1/2022, Vaslui,May-22, Lei / kg,12,Strawberries,VASLUI
+6/1/2022, Vaslui,Jun-22, Lei / kg,11.67,Strawberries,VASLUI
+7/1/2022, Vaslui,Jul-22, Lei / kg,,Strawberries,VASLUI
+8/1/2022, Vaslui,Aug-22, Lei / kg,,Strawberries,VASLUI
+9/1/2022, Vaslui,Sep-22, Lei / kg,,Strawberries,VASLUI
+10/1/2022, Vaslui,Oct-22, Lei / kg,,Strawberries,VASLUI
+11/1/2022, Vaslui,Nov-22, Lei / kg,,Strawberries,VASLUI
+12/1/2022, Vaslui,Dec-22, Lei / kg,,Strawberries,VASLUI
+1/1/2023, Vaslui,Jan-23, Lei / kg,,Strawberries,VASLUI
+2/1/2023, Vaslui,Feb-23, Lei / kg,,Strawberries,VASLUI
+3/1/2023, Vaslui,Mar-23, Lei / kg,,Strawberries,VASLUI
+4/1/2023, Vaslui,Apr-23, Lei / kg,,Strawberries,VASLUI
+5/1/2023, Vaslui,May-23, Lei / kg,13.17,Strawberries,VASLUI
+6/1/2023, Vaslui,Jun-23, Lei / kg,9.73,Strawberries,VASLUI
+7/1/2023, Vaslui,Jul-23, Lei / kg,,Strawberries,VASLUI
+8/1/2023, Vaslui,Aug-23, Lei / kg,,Strawberries,VASLUI
+9/1/2023, Vaslui,Sep-23, Lei / kg,,Strawberries,VASLUI
+10/1/2023, Vaslui,Oct-23, Lei / kg,,Strawberries,VASLUI
+11/1/2023, Vaslui,Nov-23, Lei / kg,,Strawberries,VASLUI
+12/1/2023, Vaslui,Dec-23, Lei / kg,,Strawberries,VASLUI
+1/1/2024, Vaslui,Jan-24, Lei / kg,,Strawberries,VASLUI
+2/1/2024, Vaslui,Feb-24, Lei / kg,,Strawberries,VASLUI
+3/1/2024, Vaslui,Mar-24, Lei / kg,,Strawberries,VASLUI
+4/1/2024, Vaslui,Apr-24, Lei / kg,,Strawberries,VASLUI
+5/1/2024, Vaslui,May-24, Lei / kg,14,Strawberries,VASLUI
+6/1/2024, Vaslui,Jun-24, Lei / kg,13,Strawberries,VASLUI
+7/1/2024, Vaslui,Jul-24, Lei / kg,,Strawberries,VASLUI
+8/1/2024, Vaslui,Aug-24, Lei / kg,,Strawberries,VASLUI
+9/1/2024, Vaslui,Sep-24, Lei / kg,,Strawberries,VASLUI
+10/1/2024, Vaslui,Oct-24, Lei / kg,,Strawberries,VASLUI
+11/1/2024, Vaslui,Nov-24, Lei / kg,,Strawberries,VASLUI
+12/1/2024, Vaslui,Dec-24, Lei / kg,,Strawberries,VASLUI
