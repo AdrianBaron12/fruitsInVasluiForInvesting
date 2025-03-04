@@ -308,7 +308,7 @@ ORDER BY FormattedPeriod
 
 # Visualization
 
-## DAXMeasures
+## DAX Measures
 
 1. Average Price
 
