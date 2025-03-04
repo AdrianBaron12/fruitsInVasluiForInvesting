@@ -119,3 +119,41 @@ A preliminary mockup could include:
 | GitHub | Version control and documentation |
 | Power Query | Additional data transformationg within Power BI |
 
+# Development
+
+## Pseudocode
+
+1. Extract and Explore Data:
+  
+  - Import  data_complete_periods, weatherData and period_IPC into SSMS.
+  - Validate and explore data quality, formats and completeness.
+
+2. Data Cleaning:
+
+  - Standardize the Period field across tables (e.g. convert to proper date format)
+  - Remove duplicates and irrelevant columns.
+  - Ensure numeric columns (Price, IPC <Inflation>, Temperature) are correctly typed.
+
+3. Transform Data and Create SQL Views:
+
+   - Merge the tables on a common Period field.
+   - Create a view (e.g. MergedAgroData) that consolidates all key metrics.
+
+4. Load Data into Power BI
+
+   - Connect Power BI to the SQL view.
+   - Establish relationships and create calculated columns if needed.
+  
+5. Develop DAX Measures:
+
+   - Build measures for Avg Price, Price Volatility, Real Price, Temperature Range.
+
+6. Build Visualizations:
+
+  - Create the interactive dashboard with charts, tables and filters.
+    
+7.  Analysis & Reporting:
+
+  - Analyze trends, seasonal patterns and potential ROI.
+  - Document insights and recommendations.
+8.  
