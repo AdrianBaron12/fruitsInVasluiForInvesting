@@ -99,6 +99,8 @@ To answer investor questions, the dashboard should include:
 
       Interactive filters for Product, Locality and Period to allow dynamic exploration of the data.
 
+![Dashboard](assets/images/Dashboard_image.png)
+
 ## Mockup
 
 A preliminary mockup could include:
@@ -107,6 +109,8 @@ A preliminary mockup could include:
 - A side-by-side column chart for price volatility by commodity and locality.
 - A scatter plot comparing average price vs average temperature.
 - Filters to dynamically slice of data.
+
+![Dashboard-Mockup](assets/images/mokkup.png)
 
 ## Tools
 
@@ -171,19 +175,19 @@ A preliminary mockup could include:
 
 ## Data Cleaning Steps
 
-  - Translating and clean the columns
+  - **Translating and clean the columns:**
     
     Translating from Romanian to English all the data and removing the aditional blank spaces from CSV files.
 
-  - Standardize Dates:
+  - **Standardize Dates:**
 
     Convert Period to a date type (e.g. using CleanPeriod or period_ipc field)
 
-  - Remove Unnecessary Columns:
+  - **Remove Unnecessary Columns:**
 
     Retain only the relevant columns for the analysis.
 
-  - Check data Quality:
+  - **Check data Quality:**
 
     Validate row counts, column counts, data types and duplicates.
 
@@ -206,6 +210,7 @@ FROM data_complete_periods a
 LEFT JOIN IPCperMonth i ON a.CleanPeriod=i.period_IPC
 LEFT JOIN weatherData w ON a.CleanPeriod=w.Period
 ```
+![View Merged Data](assets/images/fruits_sql_merged_agro_data.png)
 
 # Testing
 ## Data Quality Tests
@@ -220,6 +225,7 @@ COUNT(*) AS RecordCount
 FROM data_complete_periods
 GROUP BY Product, Locality
 ```
+![Row Count Check](assets/images/fruits_sql_quality_check_duplicate.png)
 
 Data Coverage
 
@@ -233,6 +239,7 @@ LEFT JOIN weatherData w ON a.CleanPeriod=w.Period
 LEFT JOIN IPCperMonth i ON a.CleanPeriod=i.period_IPC
 ORDER BY CleanPeriod ASC
 ```
+![Data Coverage](assets/images/fruits_sql_qc_data_coverage.png)
 
 Data Type Validation 
 
@@ -243,6 +250,7 @@ DATA_TYPE
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'MergedAgroData'
 ```
+![Data Type Validation](assets/images/fruits_sql_qc_data_type_validation.png)
 
 Duplicate Count Validation from all tables
 
@@ -252,6 +260,7 @@ FROM MergedAgroData
 GROUP BY Product
 HAVING COUNT(*)>1
 ```
+![Duplicate Count Validation From All Tables](assets/images/fruits_sql_qc_duplicate_validation.png)
 
 Duplicate Count Validation Fruits table
 
@@ -265,6 +274,7 @@ FROM data_complete_periods
 GROUP BY Product,Locality,CleanPeriod
 HAVING COUNT(*) > 1
 ```
+![Duplicate Count Validation Fruits Table](assets/images/fruits_sql_qc_duplicate_count_fruit_table.png)
 
 Duplicate Count Validation Inflation table
 
@@ -276,6 +286,7 @@ FROM IPCperMonth
 GROUP BY IPC, period_IPC
 HAVING COUNT(*)>1
 ```
+![Duplicate Count Validation Inflation Table](assets/images/fruits_sql_qc_duplicate_count_inflation_table.png)
 
 Duplicate Count Validation Weather table
 
@@ -289,6 +300,7 @@ FROM weatherData
 GROUP BY Period, tavg,tmin,tmax 
 HAVING COUNT(*) > 1
 ```
+![Duplicate Count Validation Weather Table](assets/images/fruits_sql_qc_duplicate_count_weather_table.png)
 
 Period field consistency
 
@@ -305,6 +317,7 @@ SELECT DISTINCT FORMAT(period_IPC, 'MMM yyyy') AS FormattedPeriod
 FROM IPCperMonth
 ORDER BY FormattedPeriod
 ```
+![Period field consistency](assets/images/fruits_sql_qc_consistency_check.png)
 
 # Visualization
 
@@ -362,6 +375,8 @@ Using the SQL CTE for Price Volatility, you can identify:
 - **Investor Insight**:
   Lower volatility implies lower risk. For example, if Apples show relatively low volatility, they might be favored for a stable, long-term investment. In contrast, high volatlity in Cherries may offer higher short-term gains at greater risk.
 
+![Price Volatility CTE](assets/images/fruits_sql_price_volatility.png)
+
 ## Temperature and Seasonal Trends Analysis
 
 Based on the Seasonal Trends table (Product, Month, Month Number, Average Price):
@@ -380,6 +395,10 @@ Based on the Seasonal Trends table (Product, Month, Month Number, Average Price)
 
 - **Local Differences**:
   Comparing similar products across localities (if available) reveals microclimatic differences that can affect price stability.
+
+![Temeperature Trend](assets/images/fruits_sql_temperature_volatility.png)
+
+![Seasonal Trend](assets/images/fruits_sql_sesonal_trends.png)
 
 # Overall Investor Insights
 
@@ -400,6 +419,38 @@ Based on the Seasonal Trends table (Product, Month, Month Number, Average Price)
     Consider more volatile commodities (e.g Cherries) for speculative opportunities, provided that risk is managed with hedging or diversification.
   - **Local Focus:**
     Factor in locality-specific trends, for example, if one locality consistently shows more stable conditions, prioritize investments there.
+
+```sql
+  --Scenario : Investors Potential Return
+  DECLARE @InitialInvestment MONEY = 100000; --Investor capital
+DECLARE @PriceGrowthRate FLOAT = 0.10; --Assuming 10% price increase
+
+WITH CommodityStats AS (
+SELECT
+Product,
+Locality,
+AVG(Price) AS AvgPrice,
+STDEVP(Price) AS PriceVolatility
+FROM data_complete_periods
+WHERE Price IS NOT NULL
+GROUP BY Product, Locality
+)
+
+SELECT 
+Product,
+Locality,
+AvgPrice,
+PriceVolatility,
+@InitialInvestment AS Investment,
+--Estimated Final Price After 10%
+(AvgPrice * (1+@PriceGrowthRate)) AS EstimatedFinalPrice,
+--Potential Profit
+((@InitialInvestment / AvgPrice) * (1 + @PriceGrowthRate) -AvgPrice) AS PotentialProfit
+FROM CommodityStats
+ORDER BY PotentialProfit DESC
+ ```
+
+![Fruit investment](assets/images/fruits_sql_investment.png)
 
 ## Action Plan
 
