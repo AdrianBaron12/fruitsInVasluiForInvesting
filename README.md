@@ -464,6 +464,6 @@ ORDER BY PotentialProfit DESC
 
 # Conclusion
 
-The Agricultural Commodity Investment Dashboard integrates price, weather and inflation data to provide investors with a comprehensive view of market dynamics. By analyzing price volatility, seasonal trends and temperature effects, investors can identify lower-risk commodities for long-term investments and spot short-term opportunities in more volatile products. With dynamic visualizations and robust DAX measures, this dashboard empowers ivestors to make informed, data-driven, decisions for optimizing their portofolios
+The Agricultural Commodity Investment Dashboard integrates price, weather and inflation data to provide investors with a comprehensive view of market dynamics. By analyzing price volatility, seasonal trends and temperature effects, investors can identify lower-risk commodities for long-term investments and spot short-term opportunities in more volatile products. With dynamic visualizations and robust DAX measures, this dashboard empowers investors to make informed, data-driven, decisions for optimizing their portofolios
    
    
