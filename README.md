@@ -79,23 +79,23 @@
 
 To answer investor questions, the dashboard should include:
 
-  1. Time Series Visuals:
+  1. **Time Series Visuals**:
      
      Line charts displaying nominal and real (inflation-adjusted) prices over time.
   
-  2. Comparison Charts:
+  2. **Comparison Charts**:
 
       Column or bar charts comparing average price and price volatility by commodity and locality
      
-  3. Scatter Plots:
+  3. **Scatter Plots**:
 
       Visuals correlating average price with weather metrics (e.g. average temperature, temperature range).
      
-  4. KPI Cards:
+  4. **KPI Cards**:
   
       Key metrics such as Average Price, Price Volatility, Real Price and ROI estimates.
      
-  5. Filters 
+  5. **Filters**
 
       Interactive filters for Product, Locality and Period to allow dynamic exploration of the data.
 
@@ -337,15 +337,15 @@ ORDER BY FormattedPeriod
 
 ## Dashboard Layout
 
-- Line Chart:
+- Line Chart 📈:
   Plot Average Price per Year
 - Table:
   All the informationg regarding the Products
 - Scatter Plot:
   Visualize correlations between Average Price and Average Temperature
-- KPI Cards:
+- KPI Cards 🗂:
   Display key metrics such as Average Price, Price Volatility and Real Price
-- Filters/Slicers:
+- Filters/Slicers 📁:
   Allow filtering by Product, Locality and Period
 - Column Chart:
   Compare Average Price, Products and Temperature
@@ -359,57 +359,57 @@ Using the SQL CTE for Price Volatility, you can identify:
   
 - Relative volatility as a percentage of average price.
   
-- Investor Insight:
+- **Investor Insight**:
   Lower volatility implies lower risk. For example, if Apples show relatively low volatility, they might be favored for a stable, long-term investment. In contrast, high volatlity in Cherries may offer higher short-term gains at greater risk.
 
 ## Temperature and Seasonal Trends Analysis
 
 Based on the Seasonal Trends table (Product, Month, Month Number, Average Price):
 
-- Apples:
+- **Apples** 🍏:
   Prices gradually increase from winter (January-April) to peak in late summer / early autumn (August-September), then decline.
-  Insight: Seasonal demand or supply factors drive price changes, investors may target buying in early season and selling during peak demand.
+  **Insight**: Seasonal demand or supply factors drive price changes, investors may target buying in early season and selling during peak demand.
 
-- Apricots & Cherries:
+- **Apricots & Cherries** 🍒🌸:
   Data shows limited months, but high prices in May for Cherries suggest early-season premiums, followed by decline as supply increases.
   Insight: Timing is critical, early harvest periods might command premium pricing.
 
-- Nuts:
+- **Nuts** 🥜:
   High average prices with clear fluctuations throughout the year indicate sensivity to market conditions and possibly weather.
   Insight: While high-priced, Nuts may offer more stable returns if price volatility is moderate relative to their high price base.
 
-- Local Differences:
+- **Local Differences**:
   Comparing similar products across localities (if available) reveals microclimatic differences that can affect price stability.
 
 # Overall Investor Insights
 
-  - Stable, Lower-Risk Investments:
+  - **Stable, Lower-Risk Investments**:
     Commodities with lower relative volatility (e.g Apples) might be ideal for risk-averse investors
-  - Higher-Risk, Opportunistic Investments:
+  - **Higher-Risk, Opportunistic Investments:**
     Commodities with higher volatility (e.g. Cherries, Nuts) may offer opportunities for short-term gains but require careful timing.
-  - Seasonality:
+  - **Seasonality:**
   Recognizing seasonal peaks and troughs in commodity prices helps investors time entry and exit points effectively.
 
 # Recommendations
 
 ## Potential ROI
 
-  - Long-Term Strategy:
+  - **Long-Term Strategy:**
       Focus on commodities with stable, predictable seasonal trends and lower volatility (e.g Apples) which can deliver steady returns.
-  - Short-Term Strategy:
+  - **Short-Term Strategy:**
     Consider more volatile commodities (e.g Cherries) for speculative opportunities, provided that risk is managed with hedging or diversification.
-  - Local Focus:
+  - **Local Focus:**
     Factor in locality-specific trends, for example, if one locality consistently shows more stable conditions, prioritize investments there.
 
 ## Action Plan
 
-1.  Data Review:
+1.  **Data Review:**
   Regularity update and validate data quality
-2.  Dashboard Monitoring:
+2.  **Dashboard Monitoring:**
   Use the Power BI dashboard to continuously track seasonal trends, price volatility and external influences.
-3.  Investments Decisions:
+3.  **Investments Decisions:**
   Use forecasting and scenario analysis (integrated in Power BI via DAX and built-in forecasting) to guide investment decisions.
-4.  Risk Management:
+4. **Risk Management:**
    Adjust portofolio allocations based on observed volatility and external factors like inflation and weather conditions.
 
 # Conclusion
